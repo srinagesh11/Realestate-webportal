@@ -1,0 +1,1 @@
+This is a java based real estate and property management website where the user and agent can buy and sell properties. It also has a government module which has access to authorize the properties uploaded by the users and agents. 
